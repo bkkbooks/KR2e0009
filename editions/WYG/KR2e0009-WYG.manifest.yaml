@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2e0009_000-WYG.yaml, hash: 'sha256:48284c97a626e6e85007bf5ffff5c53ab7d2c1ff3950519269221c3e7e0bd0aa'}
   - {seq: 1, filename: KR2e0009_001-WYG.yaml, hash: 'sha256:51ae45f043ddcf108294198a27c894cb8e4a4d80307a9c32cf9bae5ed5529564'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2e0009_000-WYG.markers.yaml, hash: 'sha256:b4cd26924a5fecae7b55788d5c01f8baaa36077b7a0bbbddfc4d7f10dfa100f2'}
-  - {seq: 1, role: markers, filename: assets/KR2e0009_001-WYG.markers.yaml, hash: 'sha256:a30fbd94e9589c1c6b7f3fbfa154305494ae83180c104d4dc01089310ad07f43'}
+  - {seq: 0, role: markers, filename: assets/KR2e0009_000-WYG.markers.yaml, hash: 'sha256:98347ad1fcaea5f019f2b015096b09e060f04eb2ac17b2c0ea8dadfac40a08ad'}
+  - {seq: 1, role: markers, filename: assets/KR2e0009_001-WYG.markers.yaml, hash: 'sha256:27effdfba6461453faeda81b18b706e914ccb7f33a93d64898d75c4ae6025903'}
 table_of_contents:
 - ref:
     seq: 0
@@ -63,4 +63,4 @@ table_of_contents:
   label: 五代史闕文
   type: section
   level: 1
-hash: sha256:e77456fb43c747ff0493d6829d63bd305cfb3acad1a8b0f7800876f9add90e63
+hash: sha256:f18e48effe7e03804df2ee272c3d5e6eb5fb8a73bb14803380bc4138221a07a9
